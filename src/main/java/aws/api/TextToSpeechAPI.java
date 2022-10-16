@@ -36,7 +36,6 @@ import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.util.HashMap;
 import java.util.Map;
-
 public final class TextToSpeechAPI {
     private AdvancedPlayer advancedPlayer = null;
     Map<String,Callback> _callback_ = null;

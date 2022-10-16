@@ -54,8 +54,7 @@ public class AppearanceDialog extends JPanel {
                         "Solarized Dark",
                         "Solarized Light",
                         "Spacegray",
-                        "Vuesion",
-
+                        "Vuesion"
                 };
 
         JScrollPane scrollPane = new JScrollPane();

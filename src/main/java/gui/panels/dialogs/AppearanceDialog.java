@@ -57,7 +57,6 @@ public class AppearanceDialog extends JPanel {
                         "Vuesion",
 
                 };
-
         JScrollPane scrollPane = new JScrollPane();
         themeList = new JList(ThemeNames);
         themeList.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);

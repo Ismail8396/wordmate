@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2e6b94a-e00e-4f0f-8aa1-9f149c1d8d7a" name="Changes" comment="Added: UI icons&#10;Added: Play/Stop functionality&#10;&#10;Known bug: App does not work properly because of TTS API bug. TODO: Fix ASAP">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2022_1_45_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2022_1_45_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_10_2022_10_54__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_10_2022_10_54__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_10_2022_10_55__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_10_2022_10_55__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_4_29_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_4_29_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_10_34__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_10_34__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_10_34__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_10_34__Changes_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_12_36_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_12_36_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2022_1_19_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2022_1_19_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_12_07_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_12_07_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_9_35__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_9_35__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_9_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022_9_37__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aws/api/TextToSpeechAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aws/api/TextToSpeechAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/panels/dialogs/AppearanceDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/panels/dialogs/AppearanceDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aws/api/TextToSpeechAPI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aws/api/TextToSpeechAPI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aws/api/TextToSpeechAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aws/api/TextToSpeechAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/panels/dialogs/AppearanceDialog.class" afterDir="false" />
-    </list>
+    <list default="true" id="c2e6b94a-e00e-4f0f-8aa1-9f149c1d8d7a" name="Changes" comment="Added new themes.&#10;&#10;Known bug: Selecting a theme cause an error." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665742711612</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added new themes.&#10;&#10;Known bug: Selecting a theme cause an error.">
+      <created>1665934600123</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665934600123</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +216,9 @@
     <MESSAGE value="Fixed a small issue. Known bugs about layouts still exist." />
     <MESSAGE value="New titlebar functionality" />
     <MESSAGE value="Backup Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backup Commit" />
+    <MESSAGE value="Added: UI icons&#10;Added: Play/Stop functionality&#10;&#10;Known bug: App does not work properly because of TTS API bug. TODO: Fix ASAP" />
+    <MESSAGE value="Added new themes.&#10;&#10;Known bug: Selecting a theme cause an error." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new themes.&#10;&#10;Known bug: Selecting a theme cause an error." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
